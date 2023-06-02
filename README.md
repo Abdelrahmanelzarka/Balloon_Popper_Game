@@ -2,11 +2,11 @@
 ### A simple game worte on opegl using C++ programming language
 
 ## how to play it 
-1- clone this repo on your machine 
+1- Clone this repo on your machine 
 
-2- open Main_project.cbp by code blocks
+2- Open Main_project.cbp by code blocks
 
-3- run and enjoy the game :)
+3- Run and enjoy the game :)
 
 ## instrcuctions
 1- you can get score only by two methods 
