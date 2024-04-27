@@ -1,4 +1,4 @@
-# Balloon_Popper_Game
+# Balloon_Popper_Game  
 ### A simple game worte on opegl using C++ programming language
 
 ## how to play it 
